@@ -1,2 +1,2 @@
 # Clock
-Clock project for Creative Coding
+Clock project for Creative Coding. For my project, I honestly had a bit of trouble with trying to figure out how to make an abstract form of a clock, due to my limited knowledge of coding. I was, however, able to do the basis of the project which was to make the digital clock. I decided to make it funky colors because usually when you see a clock, it is the generically colored white and black, but that was just too cliche, so I went with obscure colors of pink and turquoise.
